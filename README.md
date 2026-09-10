@@ -15,10 +15,21 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# Proyek Pemrograman Mobile
-## Deskripsi
-Aplikasi latihan flutter untuk pbm
+# flutter_made_pasek_merta_sujati
+
+## Deskripsi / Tujuan
+Aplikasi latihan Flutter untuk mata kuliah Pemrograman Mobile (PBM).
+
 ## Pengembang
-Nama panggilan / akun GitHub: pasek.merta@student.undiksha.ac.id
-## Status
-Proyek awal perkuliahan.
+- Nama / Akun GitHub: pasek.merta@student.undiksha.ac.id
+
+## Rencana Fitur
+- [ ] Tampilan halaman utama
+- [ ] Fitur analisis aplikasi
+
+## Cara Menjalankan
+Buka terminal di root proyek, lalu jalankan:
+
+```bash
+flutter pub get
+flutter run
